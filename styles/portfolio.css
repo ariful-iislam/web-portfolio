@@ -123,3 +123,18 @@ font-weight: 700;
   display: flex;
   gap: 30px;
 }
+.resume-item-description,.resume-item-institute {
+  color: #757575;
+}
+/* footer styles */
+.footer-container{
+  display: flex;
+  justify-content: space-around;
+}
+footer ul{
+  display: flex;
+  text-decoration: none;
+}
+/* footer ul li{
+  text-decoration: none;
+} */
